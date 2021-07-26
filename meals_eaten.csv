@@ -434,7 +434,7 @@ banana,100.0,05/07/2021
 "cottage cheese (Hochland, margele de branza)",360.0,06/07/2021
 "bread (brown, for toast, 6/7/2021)",48.0,06/07/2021
 cheese spread (Gordon),25.0,06/07/2021
-"coffee (Müller, espresso)",250.0,06/07/2021
+"coffee (Müller, espresso macchiato)",250.0,06/07/2021
 hot wings (KFC),90.0,06/07/2021
 strips (KFC),60.0,06/07/2021
 fries (Burger King),60.0,06/07/2021
@@ -454,7 +454,7 @@ ice cream (Maxi Magic),90.0,07/07/2021
 "cascaval cheese (Delhaize, smoked)",45.0,07/07/2021
 "ham (Matache Macelaru, cotlet haiducesc)",12.0,07/07/2021
 goat kefir (3.9%),330.0,07/07/2021
-"coffee (Müller, espresso)",250.0,07/07/2021
+"coffee (Müller, espresso macchiato)",250.0,07/07/2021
 crispy sandwich (KFC),90.0,07/07/2021
 covridog,110.0,07/07/2021
 filled pretzel (sour cherry),105.0,07/07/2021
@@ -548,7 +548,7 @@ baguette,99.0,12/07/2021
 "ketchup (Aldi, hot)",3.0,12/07/2021
 "cream spread (Hochland, herbs)",22.0,12/07/2021
 baguette,70.0,12/07/2021
-"coffee (Müller, espresso)",330.0,12/07/2021
+"coffee (Müller, espresso macchiato)",330.0,12/07/2021
 hot dog sausage (approx.),35.0,12/07/2021
 "ketchup (Aldi, hot)",10.0,12/07/2021
 mustard,10.0,12/07/2021
@@ -606,3 +606,181 @@ sugar,3.0,14/07/2021
 "ham (Lidl, filet de saxe)",12.5,15/07/2021
 "gouda cheese (Lidl, slices without skin)",33.0,15/07/2021
 kaiser bun (Lidl),77.0,15/07/2021
+chicken nuggets (BizBiz),500.0,15/07/2021
+kaiser bun (Lidl),77.0,15/07/2021
+"speculoos paste (Lotus, crunchy)",43.0,15/07/2021
+kombucha,257.0,15/07/2021
+kaiser bun (Lidl),73.0,15/07/2021
+"gouda cheese (Lidl, slices without skin)",32.0,15/07/2021
+"ham (Lidl, filet de saxe)",11.0,15/07/2021
+"skyr (Lidl, flavored)",150.0,15/07/2021
+"skyr (Lidl, flavored)",150.0,15/07/2021
+kaiser bun (Lidl),75.0,16/07/2021
+"gouda cheese (Lidl, slices without skin)",66.0,16/07/2021
+milk (magere),352.0,16/07/2021
+corn flakes (365 essential),100.0,16/07/2021
+"skyr (Lidl, flavored)",150.0,16/07/2021
+milk (magere),100.0,16/07/2021
+"coffee (Lidl, espresso macchiato)",330.0,15/07/2021
+"baguette (Lidl, unbaked)",150.0,16/07/2021
+"cooked meatballs (Lidl, chicken, patty shaped)",197.0,16/07/2021
+"coffee (Lidl, espresso macchiato)",330.0,16/07/2021
+fresh cheese (Lidl),500.0,16/07/2021
+hot dog (Lidl),125.0,16/07/2021
+corn flakes (365 essential),50.0,16/07/2021
+milk (magere),170.0,16/07/2021
+milk (magere),124.0,16/07/2021
+corn flakes (365 essential),40.0,16/07/2021
+"cooked meatballs (Lidl, chicken, patty shaped)",224.0,17/07/2021
+"baguette (Lidl, unbaked)",150.0,17/07/2021
+corn flakes (365 essential),20.0,17/07/2021
+milk (magere),80.0,17/07/2021
+Fanta,600.0,17/07/2021
+Fanta,200.0,17/07/2021
+"protein bar (DM, 60%, toffee)",45.0,17/07/2021
+fresh cheese (Lidl),500.0,17/07/2021
+kombucha,100.0,17/07/2021
+"pizza (Domino's, spicy chicken)",868.0,17/07/2021
+milk (magere),90.0,18/07/2021
+Hell (orange),250.0,18/07/2021
+"protein bar (DM, 60%, toffee)",45.0,18/07/2021
+"cooked meatballs (Lidl, pork, patty shaped)",92.0,18/07/2021
+bread (white),99.0,18/07/2021
+"cooked meatballs (Lidl, pork, patty shaped)",90.0,18/07/2021
+"sausage (Lidl, frankfurter)",150.0,18/07/2021
+bread (white),150.0,18/07/2021
+corn flakes (365 essential),40.0,18/07/2021
+milk (magere),183.0,18/07/2021
+fresh cheese (Lidl),500.0,18/07/2021
+corn flakes (365 essential),50.0,18/07/2021
+milk (magere),225.0,18/07/2021
+corn flakes (365 essential),50.0,18/07/2021
+milk (magere),193.0,18/07/2021
+"cooked meatballs (Lidl, pork, patty shaped)",101.0,19/07/2021
+bread (white),40.0,19/07/2021
+bread (white),40.0,19/07/2021
+"coffee (Lidl, espresso macchiato)",330.0,19/07/2021
+"ketchup (Aldi, hot)",3.0,18/07/2021
+"ketchup (Aldi, hot)",5.0,19/07/2021
+bread (white),110.0,19/07/2021
+"sausage (Lidl, frankfurter)",150.0,19/07/2021
+"cooked meatballs (Lidl, pork, patty shaped)",16.125,19/07/2021
+kombucha,289.0,19/07/2021
+bread (white),101.0,19/07/2021
+"cooked meatballs (Lidl, pork, patty shaped)",154.0,19/07/2021
+corn flakes (365 essential),50.0,19/07/2021
+milk (magere),252.0,19/07/2021
+fresh cheese (Lidl),500.0,19/07/2021
+bread (white),75.0,19/07/2021
+martino spread,29.0,19/07/2021
+fresh cheese (Lidl),500.0,20/07/2021
+"coffee (Lidl, espresso macchiato)",330.0,20/07/2021
+bread (white),175.0,20/07/2021
+"gouda cheese (Lidl, slices without skin)",60.0,20/07/2021
+martino spread,32.0,20/07/2021
+bread (white),66.0,20/07/2021
+"speculoos paste (Lotus, crunchy)",35.0,20/07/2021
+Hell (orange),250.0,20/07/2021
+corn flakes (365 essential),101.0,20/07/2021
+milk (magere),173.0,20/07/2021
+milk (magere),461.0,20/07/2021
+"lasagne (Lidl, vegan, bolognese)",400.0,20/07/2021
+martino spread,62.0,20/07/2021
+"baguette (Lidl, unbaked)",75.0,20/07/2021
+"baguette (Lidl, unbaked)",75.0,20/07/2021
+martino spread,35.0,20/07/2021
+kippenborrelhapjes (Lidl),111.11111111111113,20/07/2021
+fresh cheese (Lidl),500.0,21/07/2021
+"coffee (Lidl, espresso macchiato)",330.0,21/07/2021
+"baguette (Lidl, unbaked)",150.0,21/07/2021
+kippenborrelhapjes (Lidl),166.66666666666669,21/07/2021
+"gouda cheese (Lidl, slices without skin)",33.0,21/07/2021
+corn flakes (365 essential),86.0,21/07/2021
+milk (magere),329.0,21/07/2021
+bread (white),58.0,21/07/2021
+"gouda cheese (Lidl, slices without skin)",66.0,21/07/2021
+corn flakes (365 essential),44.0,21/07/2021
+milk (magere),207.0,21/07/2021
+milk (magere),239.0,21/07/2021
+corn flakes (365 essential),43.0,21/07/2021
+"speculoos paste (Lotus, crunchy)",33.0,21/07/2021
+"baguette (Lidl, unbaked)",75.0,21/07/2021
+milk (magere),332.0,21/07/2021
+fresh cheese (Lidl),500.0,22/07/2021
+"baguette (Lidl, unbaked)",75.0,22/07/2021
+kippenborrelhapjes (Lidl),166.66666666666669,22/07/2021
+pralines,11.111111111111107,22/07/2021
+banana bread,83.0,22/07/2021
+kombucha,130.0,22/07/2021
+emmentaler (shredded),70.0,22/07/2021
+"baguette (Lidl, unbaked)",150.0,22/07/2021
+"speculoos paste (Mister Choc, crunchy)",30.0,22/07/2021
+"churros (Lidl, unbaked)",25.0,22/07/2021
+watermelon,100.0,22/07/2021
+"churros (Lidl, unbaked)",125.0,22/07/2021
+olive oil,15.0,22/07/2021
+watermelon,150.0,22/07/2021
+fresh cheese (Lidl),500.0,22/07/2021
+"churros (Lidl, unbaked)",50.0,22/07/2021
+olive oil,6.0,22/07/2021
+kombucha,221.0,22/07/2021
+"baguette (Lidl, unbaked)",113.0,22/07/2021
+"mozzarella (Lidl, shredded)",46.0,22/07/2021
+"ham (Lidl, filet de saxe)",27.0,22/07/2021
+corn flakes (365 essential),40.0,22/07/2021
+milk (magere),201.0,22/07/2021
+"mozzarella (Lidl, shredded)",48.0,23/07/2021
+"ham (Lidl, filet de saxe)",20.0,23/07/2021
+"baguette (Lidl, unbaked)",150.0,23/07/2021
+"mozzarella (Lidl, shredded)",41.0,23/07/2021
+corn flakes (365 essential),115.0,23/07/2021
+milk (magere),458.0,23/07/2021
+milk (magere),437.0,24/07/2021
+corn flakes (365 essential),114.0,24/07/2021
+tortilla chips,150.0,23/07/2021
+"coffee (Lidl, espresso macchiato)",330.0,23/07/2021
+chicken thigh (raw),250.0,23/07/2021
+carrot,42.5,23/07/2021
+onion,87.5,23/07/2021
+soy sauce (chili and garlic),15.0,23/07/2021
+oyster sauce (thick),10.0,23/07/2021
+honey,5.0,23/07/2021
+ramen noodles,85.0,23/07/2021
+salmon salad spread (Lidl),59.0,24/07/2021
+guacamole (Lidl),20.0,24/07/2021
+guacamole (Lidl),20.0,24/07/2021
+salmon salad spread (Lidl),29.0,24/07/2021
+tortilla chips,15.0,24/07/2021
+"baguette (Lidl, unbaked)",150.0,24/07/2021
+"skyr (Lidl, flavored)",150.0,24/07/2021
+"coffee (Lidl, espresso macchiato)",289.0,24/07/2021
+Asian honey chicken thighs (Alina's),200.0,24/07/2021
+basmati rice,62.5,24/07/2021
+salmon salad spread (Lidl),74.0,24/07/2021
+salmon salad spread (Lidl),61.0,24/07/2021
+guacamole (Lidl),26.0,24/07/2021
+"mozzarella (Lidl, shredded)",12.0,24/07/2021
+"baguette (Lidl, unbaked)",150.0,24/07/2021
+guacamole (Lidl),35.0,24/07/2021
+tortilla chips,15.0,24/07/2021
+Asian honey chicken thighs (Alina's),52.0,24/07/2021
+fresh cheese (Lidl),500.0,25/07/2021
+Chinese egg noodles (thick),62.5,25/07/2021
+Asian honey chicken thighs (Alina's),150.0,25/07/2021
+"Greek yogurt (Lidl, honey)",450.0,25/07/2021
+"protein bar (DM, 60%, toffee)",45.0,25/07/2021
+chicken nuggets (BizBiz),230.7692307692308,25/07/2021
+samurai sauce (Boni),5.0,25/07/2021
+"skyr (Lidl, flavored)",150.0,25/07/2021
+guacamole (Lidl),51.0,25/07/2021
+tortilla chips,25.0,25/07/2021
+corn flakes (365 essential),100.0,25/07/2021
+milk (magere),400.0,25/07/2021
+kombucha,166.0,25/07/2021
+samurai sauce (Boni),7.0,25/07/2021
+chicken nuggets (BizBiz),115.3846153846154,25/07/2021
+chicken nuggets (BizBiz),38.46153846153846,25/07/2021
+sangria,300.0,23/07/2021
+chicken nuggets (BizBiz),57.69230769230769,25/07/2021
+samurai sauce (Boni),1.0,25/07/2021
+fresh cheese (Lidl),500.0,26/07/2021

@@ -25,12 +25,10 @@ def calc_total_macros(df,drop=True):
 
 #%%
 food_types_df=pd.read_csv(
-    r"C:\Users\Tamás Baráth\Documents\diet\meal_types.csv",
-                       sep=",")
+    "meal_types.csv", sep=",")
 food_types_df["name"]=food_types_df["name"].astype(str)
 foods_eaten_df=pd.read_csv(
-    r"C:\Users\Tamás Baráth\Documents\diet\meals_eaten.csv",
-                       sep=",")
+    "meals_eaten.csv", sep=",")
 foods_eaten_dict=foods_eaten_df.to_dict()
 foods_eaten_df["date"]=pd.to_datetime(foods_eaten_df["date"],
                                       format="%d/%m/%Y")
@@ -531,12 +529,10 @@ def save(n_clicks):
     global foods_eaten_df
     if n_clicks>0:
         food_types_df.to_csv(
-            r"C:\Users\Tamás Baráth\Documents\diet\meal_types.csv",
-                sep=",",index=False)
+            "meal_types.csv", sep=",",index=False)
         foods_eaten_df["date"]=pd.to_datetime(foods_eaten_df["date"])
         foods_eaten_df.to_csv(
-            r"C:\Users\Tamás Baráth\Documents\diet\meals_eaten.csv",
-                sep=",",index=False,date_format="%d/%m/%Y")
+            "meals_eaten.csv", sep=",",index=False,date_format="%d/%m/%Y")
         
     
 @app.callback(
