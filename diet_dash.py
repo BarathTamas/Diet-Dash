@@ -25,10 +25,12 @@ def calc_total_macros(df,drop=True):
 
 #%%
 food_types_df=pd.read_csv(
-    "meal_types.csv", sep=",")
+    r"C:\Users\Tamás Baráth\Documents\diet\meal_types.csv",
+                       sep=",")
 food_types_df["name"]=food_types_df["name"].astype(str)
 foods_eaten_df=pd.read_csv(
-    "meals_eaten.csv", sep=",")
+    r"C:\Users\Tamás Baráth\Documents\diet\meals_eaten.csv",
+                       sep=",")
 foods_eaten_dict=foods_eaten_df.to_dict()
 foods_eaten_df["date"]=pd.to_datetime(foods_eaten_df["date"],
                                       format="%d/%m/%Y")
@@ -51,7 +53,7 @@ peach_yellow="#fae6b1"
 maroon="#712e1e"
 green="#788402"
 
-img_url='url(https://image.freepik.com/free-photo/recycled-paper-background_1253-73.jpg)'
+img_url='url("/assets/smooth_paper_texture.jpg")'
 
 tabs_styles = {
     'height': '30px',
@@ -88,7 +90,6 @@ app.layout = html.Div(
                        'color': orange}),
         dcc.Markdown('''
             [Don't forget!](https://www.youtube.com/watch?v=1LsIQr_4iSY)
-            [Background photo created by tirachard - www.freepik.com](https://www.freepik.com/photos/background)
             ''',
             style={'margin-left':'30px',
                    'margin-bottom':'20px'}),
@@ -362,7 +363,7 @@ app.layout = html.Div(
                     style={'background-image': img_url,
                            'display': 'inline-block',
                            'vertical-align': 'top',
-                           'backgroundColor':peach_yellow,
+                           'backgroundColor':sand_brown,
                            'borderRadius': '15px'}
                 )
                 ]),
@@ -529,10 +530,12 @@ def save(n_clicks):
     global foods_eaten_df
     if n_clicks>0:
         food_types_df.to_csv(
-            "meal_types.csv", sep=",",index=False)
+            r"C:\Users\Tamás Baráth\Documents\diet\meal_types.csv",
+                sep=",",index=False)
         foods_eaten_df["date"]=pd.to_datetime(foods_eaten_df["date"])
         foods_eaten_df.to_csv(
-            "meals_eaten.csv", sep=",",index=False,date_format="%d/%m/%Y")
+            r"C:\Users\Tamás Baráth\Documents\diet\meals_eaten.csv",
+                sep=",",index=False,date_format="%d/%m/%Y")
         
     
 @app.callback(
