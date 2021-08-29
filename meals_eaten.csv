@@ -279,7 +279,7 @@ samurai sauce (Boni),6.0,26/06/2021
 chicken nuggets (BizBiz),250.0,26/06/2021
 milk (magere),464.0,26/06/2021
 "rijstpap (Colruyt, Everyday)",200.0,26/06/2021
-Fanta,150.0,26/06/2021
+soft drink (48kcal),150.0,26/06/2021
 chicken nuggets (BizBiz),250.0,26/06/2021
 fresh cheese (Lidl),500.0,26/06/2021
 tortilla chips,111.0,26/06/2021
@@ -635,8 +635,8 @@ corn flakes (365 essential),40.0,16/07/2021
 "baguette (Lidl, unbaked)",150.0,17/07/2021
 corn flakes (365 essential),20.0,17/07/2021
 milk (magere),80.0,17/07/2021
-Fanta,600.0,17/07/2021
-Fanta,200.0,17/07/2021
+soft drink (48kcal),600.0,17/07/2021
+soft drink (48kcal),200.0,17/07/2021
 "protein bar (DM, 60%, toffee)",45.0,17/07/2021
 fresh cheese (Lidl),500.0,17/07/2021
 kombucha,100.0,17/07/2021
@@ -1173,3 +1173,107 @@ corn flakes (365 essential),47.0,22/08/2021
 milk (magere),150.0,22/08/2021
 milk (magere),343.0,23/08/2021
 corn flakes (365 essential),66.0,23/08/2021
+cheese (Boquet des Moines),54.0,23/08/2021
+"baguette (Lidl, unbaked)",150.0,23/08/2021
+radish,43.0,23/08/2021
+"gouda cheese (Lidl, slices without skin)",30.0,23/08/2021
+onion,39.0,23/08/2021
+goat cheese,44.0,23/08/2021
+fresh cheese (Lidl),500.0,23/08/2021
+"baguette (Lidl, unbaked)",75.0,23/08/2021
+"speculoos paste (Mister Choc, crunchy)",22.0,23/08/2021
+basmati rice,62.5,23/08/2021
+chicken breast (raw),46.7,23/08/2021
+samurai sauce (Boni),3.0,23/08/2021
+onion,10.0,23/08/2021
+milk (magere),200.0,23/08/2021
+milk (magere),250.0,23/08/2021
+milk (magere),15.0,23/08/2021
+sugar,10.0,23/08/2021
+"ice cream (Lidl, little octo)",51.0,23/08/2021
+fresh cheese (Lidl),500.0,23/08/2021
+corn flakes (365 essential),45.0,23/08/2021
+milk (magere),242.0,23/08/2021
+"baguette (Lidl, unbaked)",75.0,24/08/2021
+radish,40.0,24/08/2021
+goat cheese,57.0,24/08/2021
+"baguette (Lidl, unbaked)",150.0,24/08/2021
+"gouda cheese (Lidl, slices without skin)",64.0,24/08/2021
+fresh cheese (Lidl),500.0,24/08/2021
+muffin (Lidl),90.0,24/08/2021
+cappuccino (Lidl),380.0,24/08/2021
+"ice cream (Lidl, little octo)",51.0,24/08/2021
+barchetta (Lidl),200.0,24/08/2021
+fresh cheese spread (Lidl),37.0,24/08/2021
+"baguette (Lidl, unbaked)",75.0,24/08/2021
+chicken breast (raw),66.0,24/08/2021
+corn flakes (365 essential),87.0,24/08/2021
+milk (magere),381.0,24/08/2021
+milk (magere),184.0,25/08/2021
+muffin (Lidl),90.0,25/08/2021
+"latte macchiato (Aldi, light)",250.0,25/08/2021
+blueberries,30.0,25/08/2021
+"ice cream (Corso, lime)",30.0,25/08/2021
+cappuccino (Lidl),380.0,25/08/2021
+basmati rice,62.5,25/08/2021
+onion,10.0,25/08/2021
+samurai sauce (Boni),2.0,25/08/2021
+chicken breast (raw),99.0,25/08/2021
+"gouda cheese (Lidl, slices without skin)",66.0,25/08/2021
+"baguette (Lidl, unbaked)",150.0,25/08/2021
+"bread (white, for toasting)",53.0,25/08/2021
+egg,53.0,25/08/2021
+milk (magere),12.5,25/08/2021
+olive oil,3.0,25/08/2021
+"gouda cheese (Lidl, slices without skin)",66.0,25/08/2021
+"ice cream (Lidl, little octo)",51.0,25/08/2021
+melon,385.0,25/08/2021
+fresh cheese (Lidl),500.0,25/08/2021
+muffin (Lidl),90.0,26/08/2021
+"gouda cheese (Lidl, slices without skin)",68.0,26/08/2021
+"baguette (Lidl, unbaked)",150.0,26/08/2021
+fresh cheese spread (Lidl),39.0,26/08/2021
+corn flakes (365 essential),76.0,26/08/2021
+milk (magere),356.0,26/08/2021
+"baguette (Lidl, unbaked)",150.0,26/08/2021
+chicken breast (raw),99.0,26/08/2021
+olive oil,4.0,26/08/2021
+blueberries,39.0,26/08/2021
+milk (magere),329.0,26/08/2021
+melon,55.0,26/08/2021
+fresh cheese spread (Lidl),17.0,27/08/2021
+"baguette (Lidl, unbaked)",75.0,27/08/2021
+fresh cheese spread (Lidl),36.0,27/08/2021
+filet de York (Lidl),22.0,27/08/2021
+melon,105.0,27/08/2021
+papanasi (26/08/2021),95.0,27/08/2021
+papanasi (26/08/2021),237.5,26/08/2021
+"jam (apricot, 45%)",100.0,26/08/2021
+greek pasta (Boni),93.0,27/08/2021
+"mozzarella (Lidl, shredded)",43.0,27/08/2021
+bolognese (27/08/2021),300.0,27/08/2021
+"ice cream (Lidl, little octo)",51.0,27/08/2021
+kombucha,235.0,27/08/2021
+bolognese (27/08/2021),126.0,27/08/2021
+"mozzarella (Lidl, shredded)",22.0,27/08/2021
+melon,228.0,27/08/2021
+corn flakes (365 essential),52.0,27/08/2021
+milk (magere),175.0,27/08/2021
+bolognese (27/08/2021),180.0,28/08/2021
+"mozzarella (Lidl, shredded)",24.0,28/08/2021
+kombucha,155.0,28/08/2021
+boba coffee,90.0,28/08/2021
+macaroni pasta,60.0,28/08/2021
+bolognese (27/08/2021),155.0,28/08/2021
+"mozzarella (Lidl, shredded)",21.0,28/08/2021
+brokkelkaas (50+),4.0,28/08/2021
+"ice cream (Lidl, little octo)",4.0,28/08/2021
+corn flakes (365 essential),60.0,29/08/2021
+milk (magere),323.0,29/08/2021
+"protein bar (DM, 60%, toffee)",46.0,27/08/2021
+"mini loempia (Lidl, vegetarian)",160.0,28/08/2021
+loempia (Lidl),282.0,28/08/2021
+tortilla chips,18.0,28/08/2021
+soft drink (48kcal),200.0,28/08/2021
+"salsa dip (Lidl, medium)",20.0,28/08/2021
+fresh cheese (Lidl),500.0,28/08/2021

@@ -68,9 +68,9 @@ choco syrup (Nesquik),282.0,2.2,62.7,1.2
 honey,304.0,0.0,82.4,0.0
 "chicken nuggets (Aldi, magyar)",212.0,16.0,17.0,8.6
 Lipton ice tea,20.0,0.0,4.6,0.0
-double chili cheese burger (Burger King),381.391,20.551,18.985,24.248
+double chili cheese burger (Burger King),381.39099999999996,20.551,18.985,24.248
 Texas sandwich (Burger King),258.621,10.0,23.621,13.448
-fries (Burger King),270.946,4.73,33.649,13.108
+fries (Burger King),270.94599999999997,4.73,33.649,13.107999999999999
 double cheeseburger (McDonalds),267.0,16.0,18.0,14.0
 magvas-szilvás papucs (Tesco),378.0,9.0,43.0,19.0
 "sandwich (Lidl, turkey-egg)",246.0,10.1,17.2,14.6
@@ -80,7 +80,7 @@ nussschnecke (Lidl),349.0,7.3,39.3,17.4
 noodles (24/06/2021),140.7,14.2,16.6,1.5
 fried cauliflower (24/06/2021),73.3,4.6,7.4,2.2
 "rijstpap (Colruyt, Everyday)",109.0,3.4,21.0,1.3
-Fanta,48.0,0.0,11.7,0.0
+soft drink (48kcal),48.0,0.0,11.7,0.0
 tortilla chips,509.0,7.1,66.5,23.6
 wine (red),85.0,0.0,2.6,0.0
 "lasagne (Carrefour, bolognese)",146.0,6.7,11.0,7.9
@@ -256,3 +256,15 @@ croissant (jam),381.0,7.0,43.0,19.0
 cheese (Boquet des Moines),310.0,19.0,0.0,26.0
 onion-ham-egg cups,159.0,12.7,6.8,7.7
 "pork steak (Lidl, BBQ, raw)",137.0,20.0,0.9,6.1
+radish,16.0,0.68,3.4,0.1
+goat cheese,336.0,20.0,1.0,28.0
+"latte macchiato (Aldi, light)",44.0,2.9,6.1,0.8
+blueberries,57.0,0.7,14.5,0.3
+papanasi (26/08/2021),180.0,13.9,19.7,4.3
+bolognese (27/08/2021),224.0,15.5,4.4,15.6
+boba coffee,384.44,3.22,63.88,12.77
+macaroni pasta,350.0,12.5,70.5,1.2
+brokkelkaas (50+),420.0,26.7,0.0,34.8
+"mini loempia (Lidl, vegetarian)",157.0,4.1,24.5,4.2
+loempia (Lidl),169.0,5.6,25.0,4.5
+"salsa dip (Lidl, medium)",38.0,1.2,7.0,0.2
