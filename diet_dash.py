@@ -551,6 +551,11 @@ def update_timeseries_plot(_):
     mean_protein=plot_df["total protein"].mean()
     plot_df=plot_df.drop(["g","total kcal"],axis=1)
     
+    daily_tick=24*60*60*1000
+    first_date=  kcal_plot_df["date"].min()
+    first_monday = first_date - pd.Timedelta(days=first_date.weekday(),
+                                             unit="D")
+    
     fig = make_subplots(specs=[[{"secondary_y": True}]])
     fig.add_trace(
         go.Scatter(
@@ -628,7 +633,10 @@ def update_timeseries_plot(_):
         hovermode='x'
     )
     fig.update_xaxes(
-        gridcolor="gray")
+        gridcolor="gray",
+        tick0=first_monday,
+        dtick=7*daily_tick,
+        tickformat="%d\n%B")
     fig.update_yaxes(
         nticks=12,
         range=[0, 550],
@@ -647,9 +655,7 @@ def update_timeseries_plot(_):
         fixedrange=True)
     fig['layout']['yaxis2']['showgrid'] = False
     fig['layout']['yaxis2']['nticks'] = 10
-    fig.update_xaxes(
-        dtick="d",
-        tickformat="%d %b")
+
     
     return fig
 

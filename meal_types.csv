@@ -68,9 +68,9 @@ choco syrup (Nesquik),282.0,2.2,62.7,1.2
 honey,304.0,0.0,82.4,0.0
 "chicken nuggets (Aldi, magyar)",212.0,16.0,17.0,8.6
 Lipton ice tea,20.0,0.0,4.6,0.0
-double chili cheese burger (Burger King),381.39099999999996,20.551,18.985,24.248
+double chili cheese burger (Burger King),381.391,20.551,18.985,24.248
 Texas sandwich (Burger King),258.621,10.0,23.621,13.448
-fries (Burger King),270.94599999999997,4.73,33.649,13.107999999999999
+fries (Burger King),270.946,4.73,33.649,13.108
 double cheeseburger (McDonalds),267.0,16.0,18.0,14.0
 magvas-szilvás papucs (Tesco),378.0,9.0,43.0,19.0
 "sandwich (Lidl, turkey-egg)",246.0,10.1,17.2,14.6
@@ -268,3 +268,5 @@ brokkelkaas (50+),420.0,26.7,0.0,34.8
 "mini loempia (Lidl, vegetarian)",157.0,4.1,24.5,4.2
 loempia (Lidl),169.0,5.6,25.0,4.5
 "salsa dip (Lidl, medium)",38.0,1.2,7.0,0.2
+mochi (mango),336.0,1.2,80.4,1.2
+corn flakes (Lidl),379.0,7.3,84.0,0.8
